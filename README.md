@@ -1,6 +1,6 @@
-#The_Sparks_Foundation
+# The_Sparks_Foundation
 ---
-##1 Prediction using Supervised Machine Learning 
+### 1 Prediction using Supervised Machine Learning 
 
 ● Predict the percentage of marks of an student based on the number of study hours
 
@@ -15,8 +15,7 @@
 Youtube link : https://youtu.be/8KqT5zwba6Q
 
 ---
-
-##2 Prediction using Unsupervised Machine Learning
+### 2 Prediction using Unsupervised Machine Learning
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
@@ -25,3 +24,17 @@ Youtube link : https://youtu.be/8KqT5zwba6Q
 ● Dataset : https://bit.ly/3kXTdox
 
 Youtube Link : https://youtu.be/Me5Gi5CX5p8
+
+---
+### 3 To Explore Business Analytics
+● Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+
+● As a business manager, try to find out the weak areas where you can work to make more profit.
+
+● What all business problems you can derive by exploring the data?
+
+● You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+
+● Dataset: https://bit.ly/3i4rbWl
+
+Youtube Link : https://youtu.be/jqKXSCOhDn4
