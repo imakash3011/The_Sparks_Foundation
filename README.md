@@ -1,4 +1,4 @@
-#The_Sparks_Foundation\
+#The_Sparks_Foundation
 ---
 ##1 Prediction using Supervised Machine Learning 
 
